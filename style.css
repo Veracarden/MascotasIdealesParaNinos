@@ -1,0 +1,43 @@
+header {
+    background-color: royalblue;
+    color: aliceblue;
+    font-size: 20px;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(5, 12, 33);
+}
+
+img {
+    position: fixed;
+    top: 150px;
+    left: 40px;
+}
+
+.Perros {
+    position: fixed;
+    top: 130px;
+    left: 255px;
+}
+
+.Gatos {
+    position: fixed;
+    top: 416px;
+    left: 255px;
+}
+
+.TituloGatos {
+    position: fixed;
+    top: 306px;
+}
+
+.FotoGato {
+    position: fixed;
+    top: 396px;
+    left: 40px;
+}
